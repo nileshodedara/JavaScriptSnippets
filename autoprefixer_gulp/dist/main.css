@@ -1,0 +1,9 @@
+div {
+	display: -ms-flexbox;
+	display: flex;
+}
+
+.div1 {
+	-ms-flex-pack: center;
+	justify-content: center;
+}
